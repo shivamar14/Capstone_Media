@@ -1,3 +1,5 @@
 a=int(input("please enter first number : "))
 b=int(input("please enter second number : "))
-print("result", a + b)
+print("addition", a + b)
+print("addition1", a + b)
+print("addition2", a + b)
